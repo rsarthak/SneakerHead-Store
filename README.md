@@ -17,7 +17,7 @@ using NextJs paired with MedusaJs
 ### Preview
 
 Demo Video:
-![Demo Video](https://user-images.githubusercontent.com/64676594/195950378-61a5f101-88c2-4412-97b6-284cbb63c33f.mp4)
+https://user-images.githubusercontent.com/64676594/195950378-61a5f101-88c2-4412-97b6-284cbb63c33f.mp4
 
 ScreenShots:
 

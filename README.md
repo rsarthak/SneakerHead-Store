@@ -36,13 +36,13 @@ git clone https://github.com/abhijeet007rocks8/SportsFactory.git
 2. Change directory and install dependencies:
 
 ```bash
-cd SportsFactory
+cd SneakerHead-Store
 cd Backend
 medusa develop
 ```
 Open another terminal using path of cloned repository
 ```bash
-cd Frontend 
+cd frontend 
 yarn install
 yarn dev
 ```

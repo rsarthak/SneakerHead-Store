@@ -6,7 +6,7 @@
 
 Github : [@abhijeet007rocks8](https://github.com/abhijeet007rocks8) [@manisha-27](https://github.com/manisha-27)
 
-Twitter : [@Abhijeet Chatterjee](https://twitter.com/Abhijee58090064) [@Manisha Singh]()
+Twitter : [@Abhijeet Chatterjee](https://twitter.com/Abhijee58090064) [@Manisha Singh](https://twitter.com/Manisha87672782)
 
 Discord : Abhijeet#1624  ||  Macsia#7113
 
